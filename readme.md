@@ -1,0 +1,1 @@
+API 1 (Countries API): Display country details (name, population, capital).
